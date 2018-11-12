@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="instructions">Enter the books name : </string>
+    <string name="input_hint">Book title</string>
+    <string name="button_text">Search</string>
+    <string name="no_results">No Results Found</string>
+</resources>
